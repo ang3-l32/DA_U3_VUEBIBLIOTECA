@@ -10,6 +10,7 @@
 import Navbar from "./Navbar.vue";
 import Banner from "./Banner.vue";
 import BookList from "./BookList.vue";
+import Footer from "./Footer.vue";
 
 </script>
 
